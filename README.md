@@ -51,13 +51,9 @@ ML Frameworks: TensorFlow, Keras, PyTorch (depending on chosen model)
 
 Installation and Setup
 Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/vivekgautamgv/TVS-Project
 
-Create Virtual Environment (Recommended)
-python -m venv venv
-source venv/bin/activate    # Linux/Mac
-venv\Scripts\activate       # Windows
+Create Virtual Environment 
 
 Install Requirements
 pip install -r requirements.txt
