@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+deepface
+opencv-python
+Pillow
+tensorflow
+keras
+torch
+torchvision
+scikit-learn
+matplotlib
+seaborn
